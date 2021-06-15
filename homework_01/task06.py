@@ -5,7 +5,7 @@
 Принудительно открыть файл в формате Unicode и вывести его содержимое.
 """
 
-test_file = open("test_file.txt", "w", encoding="utf-8")  # без параметра encoding (по умолчанию) в файл не пишет
+test_file = open("test_file.txt", "w", encoding="utf-8")  # без параметра encoding (по умолчанию) в файл не пишет (win10)
 test_file.write("сетевое программирование\n")
 test_file.write("сокет\n")
 test_file.write("декоратор")
