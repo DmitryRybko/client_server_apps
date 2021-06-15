@@ -8,7 +8,7 @@
 test_file = open("test_file.txt", "w", encoding="utf-8")  # без параметра encoding (по умолчанию) в файл не пишет
 test_file.write("сетевое программирование\n")
 test_file.write("сокет\n")
-test_file.write("декоратор\n")
+test_file.write("декоратор")
 test_file.close()
 
 with open("test_file.txt", encoding='utf=8') as test_file:
