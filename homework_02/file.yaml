@@ -1,0 +1,9 @@
+dict:
+  key1: 45 руб.
+  key2: 60 руб.
+integ: 50
+list:
+- one
+- two
+- three
+- four
