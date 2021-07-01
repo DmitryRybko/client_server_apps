@@ -1,0 +1,12 @@
+2021-07-01 10:17:09,735 INFO       client Parameters parsed OK
+2021-07-01 10:24:35,986 INFO       client Parameters parsed OK
+2021-07-01 10:24:35,992 INFO       client Server communication OK
+2021-07-01 10:25:00,583 CRITICAL   client Critical error in communication with server
+2021-07-01 10:25:19,898 INFO       client Parameters parsed OK
+2021-07-01 10:25:19,906 INFO       client Server communication OK
+2021-07-01 10:42:06,613 INFO       client Parameters parsed OK
+2021-07-01 10:42:08,643 CRITICAL   client Critical error in communication with server
+2021-07-01 10:42:46,417 INFO       client Parameters parsed OK
+2021-07-01 10:42:48,440 CRITICAL   client Critical error in communication with server
+2021-07-01 10:43:16,138 INFO       client Parameters parsed OK
+2021-07-01 10:43:16,145 INFO       client Server communication OK
