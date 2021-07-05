@@ -1,0 +1,55 @@
+2021-07-01 10:17:09,735 INFO       client Parameters parsed OK
+2021-07-01 10:24:35,986 INFO       client Parameters parsed OK
+2021-07-01 10:24:35,992 INFO       client Server communication OK
+2021-07-01 10:25:00,583 CRITICAL   client Critical error in communication with server
+2021-07-01 10:25:19,898 INFO       client Parameters parsed OK
+2021-07-01 10:25:19,906 INFO       client Server communication OK
+2021-07-01 10:42:06,613 INFO       client Parameters parsed OK
+2021-07-01 10:42:08,643 CRITICAL   client Critical error in communication with server
+2021-07-01 10:42:46,417 INFO       client Parameters parsed OK
+2021-07-01 10:42:48,440 CRITICAL   client Critical error in communication with server
+2021-07-01 10:43:16,138 INFO       client Parameters parsed OK
+2021-07-01 10:43:16,145 INFO       client Server communication OK
+2021-07-05 11:05:44,982 INFO       client Parameters parsed OK
+2021-07-05 11:05:44,994 INFO       client Server communication OK
+2021-07-05 11:15:57,510 INFO       client Parameters parsed OK
+2021-07-05 11:15:57,519 INFO       client Server communication OK
+2021-07-05 11:27:59,043 INFO       client Entering parse_parameters
+2021-07-05 11:27:59,063 INFO       client Parameters parsed OK
+2021-07-05 11:27:59,063 INFO       client Exiting parse_parameters
+2021-07-05 11:27:59,070 INFO       client Server communication OK
+2021-07-05 13:11:52,359 INFO       client Entering parse_parameters
+2021-07-05 13:11:52,360 INFO       client Entering <module>
+2021-07-05 13:11:52,377 INFO       client Parameters parsed OK
+2021-07-05 13:11:52,377 INFO       client Exiting parse_parameters
+2021-07-05 13:11:52,389 INFO       client Server communication OK
+2021-07-05 13:14:01,998 INFO       client Entering parse_parameters
+2021-07-05 13:14:01,998 INFO       client caller function: <module>
+2021-07-05 13:14:02,031 INFO       client Parameters parsed OK
+2021-07-05 13:14:02,031 INFO       client Exiting parse_parameters
+2021-07-05 13:14:02,042 INFO       client Server communication OK
+2021-07-05 13:18:03,606 INFO       log_decorator Entering parse_parameters
+2021-07-05 13:18:03,606 INFO       log_decorator caller function: <module>
+2021-07-05 13:18:03,621 INFO       client Parameters parsed OK
+2021-07-05 13:18:03,621 INFO       log_decorator Exiting parse_parameters
+2021-07-05 13:18:03,627 INFO       client Server communication OK
+2021-07-05 13:18:30,268 INFO       log_decorator Entering parse_parameters
+2021-07-05 13:18:30,268 INFO       log_decorator caller function: <module>
+2021-07-05 13:18:30,289 INFO       client Parameters parsed OK
+2021-07-05 13:18:30,289 INFO       log_decorator Exiting parse_parameters
+2021-07-05 13:18:30,297 INFO       client Server communication OK
+2021-07-05 13:18:38,369 INFO       log_decorator Entering parse_parameters
+2021-07-05 13:18:38,369 INFO       log_decorator caller function: <module>
+2021-07-05 13:18:38,384 INFO       client Parameters parsed OK
+2021-07-05 13:18:38,384 INFO       log_decorator Exiting parse_parameters
+2021-07-05 13:18:38,390 INFO       client Server communication OK
+2021-07-05 13:20:37,393 INFO       log_decorator Entering parse_parameters
+2021-07-05 13:20:37,393 INFO       log_decorator caller function: <module>
+2021-07-05 13:20:37,409 INFO       client Parameters parsed OK
+2021-07-05 13:20:37,410 INFO       log_decorator Exiting parse_parameters
+2021-07-05 13:20:37,418 INFO       client Server communication OK
+2021-07-05 13:56:51,216 INFO       log_decorator Entering parse_parameters
+2021-07-05 13:56:51,216 INFO       log_decorator Function parse_parameters called from function: <module>
+2021-07-05 13:56:51,231 INFO       client Parameters parsed OK
+2021-07-05 13:56:51,231 INFO       log_decorator Exiting parse_parameters
+2021-07-05 13:56:51,238 INFO       client Server communication OK

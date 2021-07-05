@@ -1,0 +1,16 @@
+2021-07-01 10:45:38,156 INFO       server Parameters parsed OK
+2021-07-01 10:45:38,157 INFO       server Server started
+2021-07-01 10:46:18,463 INFO       server Parameters parsed OK
+2021-07-01 10:46:18,464 INFO       server Server started
+2021-07-01 10:47:36,554 CRITICAL   server Server failed to start
+2021-07-01 12:03:28,427 INFO       server Parameters parsed OK
+2021-07-01 12:03:28,427 INFO       server Server started OK
+2021-07-01 12:03:44,371 CRITICAL   server Server failed to start
+2021-07-01 12:03:58,372 INFO       server Parameters parsed OK
+2021-07-01 12:03:58,373 INFO       server Server started OK
+2021-07-01 12:13:48,530 INFO       server Parameters parsed OK
+2021-07-01 12:13:48,534 INFO       server Server started OK
+Parameters parsed OK
+2021-07-01 12:14:03,877 INFO       server Parameters parsed OK
+Server started OK
+2021-07-01 12:14:03,878 INFO       server Server started OK
