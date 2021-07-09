@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "buyer": "client01",
+            "date": "2021-05-01",
+            "item": "good 01",
+            "price": 15200,
+            "quantity": 5
+        },
+        {
+            "buyer": "client02",
+            "date": "2021-05-02",
+            "item": "good 02",
+            "price": 30400,
+            "quantity": 10
+        }
+    ]
+}

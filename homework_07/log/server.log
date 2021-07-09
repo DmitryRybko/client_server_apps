@@ -1,0 +1,500 @@
+2021-07-01 10:45:38,156 INFO       server Parameters parsed OK
+2021-07-01 10:45:38,157 INFO       server Server started
+2021-07-01 10:46:18,463 INFO       server Parameters parsed OK
+2021-07-01 10:46:18,464 INFO       server Server started
+2021-07-01 10:47:36,554 CRITICAL   server Server failed to start
+2021-07-01 12:03:28,427 INFO       server Parameters parsed OK
+2021-07-01 12:03:28,427 INFO       server Server started OK
+2021-07-01 12:03:44,371 CRITICAL   server Server failed to start
+2021-07-01 12:03:58,372 INFO       server Parameters parsed OK
+2021-07-01 12:03:58,373 INFO       server Server started OK
+2021-07-01 12:13:48,530 INFO       server Parameters parsed OK
+2021-07-01 12:13:48,534 INFO       server Server started OK
+Parameters parsed OK
+2021-07-01 12:14:03,877 INFO       server Parameters parsed OK
+Server started OK
+2021-07-01 12:14:03,878 INFO       server Server started OK
+2021-07-05 10:58:18,748 INFO       server Parameters parsed OK
+2021-07-05 10:58:18,751 INFO       server Server started OK
+Entering start_server
+2021-07-05 13:55:11,836 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-05 13:55:11,836 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-05 13:55:11,837 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-05 13:55:11,838 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-05 13:55:11,868 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-05 13:55:11,868 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-05 13:55:11,868 INFO       server Server started OK
+Exiting start_server
+2021-07-05 13:55:11,868 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-05 13:56:41,942 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-05 13:56:41,942 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-05 13:56:41,943 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-05 13:56:41,943 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-05 13:56:41,958 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-05 13:56:41,958 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-05 13:56:41,958 INFO       server Server started OK
+Exiting start_server
+2021-07-05 13:56:41,958 INFO       log_decorator Exiting start_server
+Entering form_response
+2021-07-05 13:56:51,237 INFO       log_decorator Entering form_response
+Function form_response called from function: <module>
+2021-07-05 13:56:51,237 INFO       log_decorator Function form_response called from function: <module>
+Exiting form_response
+2021-07-05 13:56:51,237 INFO       log_decorator Exiting form_response
+2021-07-08 15:18:35,363 INFO       log_decorator Entering start_server
+2021-07-08 15:18:35,368 INFO       log_decorator Function start_server called from function: <module>
+2021-07-08 15:18:35,370 INFO       log_decorator Entering parse_params
+2021-07-08 15:18:35,371 INFO       log_decorator Function parse_params called from function: start_server
+2021-07-08 15:18:35,404 INFO       server Parameters parsed OK
+2021-07-08 15:18:35,405 INFO       log_decorator Exiting parse_params
+2021-07-08 15:18:35,407 INFO       server Server started OK
+2021-07-08 15:18:35,407 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 15:19:52,524 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 15:19:52,525 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 15:19:52,526 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 15:19:52,526 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 15:19:52,542 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 15:19:52,543 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 15:19:52,543 INFO       server Server started OK
+Exiting start_server
+2021-07-08 15:19:52,543 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 15:22:16,554 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 15:22:16,554 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 15:22:16,555 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 15:22:16,555 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 15:22:16,568 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 15:22:16,568 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 15:22:16,568 INFO       server Server started OK
+Exiting start_server
+2021-07-08 15:22:16,568 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 15:41:25,238 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 15:41:25,239 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 15:41:25,240 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 15:41:25,240 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 15:41:25,254 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 15:41:25,254 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 15:41:25,255 INFO       server Server started OK
+Exiting start_server
+2021-07-08 15:41:25,255 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 16:08:39,158 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 16:08:39,158 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 16:08:39,159 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 16:08:39,159 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 16:08:39,169 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 16:08:39,170 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 16:08:39,173 INFO       server Server started OK
+Exiting start_server
+2021-07-08 16:08:39,173 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 16:12:30,958 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 16:12:30,958 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 16:12:30,959 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 16:12:30,959 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 16:12:30,979 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 16:12:30,979 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 16:12:30,980 INFO       server Server started OK
+Exiting start_server
+2021-07-08 16:12:30,980 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 16:52:14,156 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 16:52:14,157 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 16:52:14,157 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 16:52:14,157 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 16:52:14,169 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 16:52:14,169 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 16:52:14,170 INFO       server Server started OK
+Exiting start_server
+2021-07-08 16:52:14,170 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 16:55:46,721 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 16:55:46,721 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 16:55:46,723 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 16:55:46,723 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 16:55:46,743 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 16:55:46,743 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 16:55:46,744 INFO       server Server started OK
+Exiting start_server
+2021-07-08 16:55:46,744 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 16:59:22,530 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 16:59:22,530 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 16:59:22,530 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 16:59:22,531 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 16:59:22,544 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 16:59:22,544 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 16:59:22,545 INFO       server Server started OK
+Exiting start_server
+2021-07-08 16:59:22,545 INFO       log_decorator Exiting start_server
+Entering form_response
+2021-07-08 16:59:28,227 INFO       log_decorator Entering form_response
+Function form_response called from function: write_responses
+2021-07-08 16:59:28,227 INFO       log_decorator Function form_response called from function: write_responses
+Entering form_response
+2021-07-08 17:57:31,581 INFO       log_decorator Entering form_response
+Function form_response called from function: write_responses
+2021-07-08 17:57:31,582 INFO       log_decorator Function form_response called from function: write_responses
+Entering start_server
+2021-07-08 17:58:45,137 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 17:58:45,137 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 17:58:45,138 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 17:58:45,138 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 17:58:45,152 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 17:58:45,152 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 17:58:45,153 INFO       server Server started OK
+Exiting start_server
+2021-07-08 17:58:45,153 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-08 17:59:00,572 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 17:59:00,572 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 17:59:00,573 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 17:59:00,573 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 17:59:00,586 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 17:59:00,586 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 17:59:00,586 INFO       server Server started OK
+Exiting start_server
+2021-07-08 17:59:00,587 INFO       log_decorator Exiting start_server
+Entering form_response
+2021-07-08 17:59:05,952 INFO       log_decorator Entering form_response
+Function form_response called from function: write_responses
+2021-07-08 17:59:05,952 INFO       log_decorator Function form_response called from function: write_responses
+Entering start_server
+2021-07-08 18:01:26,054 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 18:01:26,054 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 18:01:26,055 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 18:01:26,055 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 18:01:26,068 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 18:01:26,069 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 18:01:26,069 INFO       server Server started OK
+Exiting start_server
+2021-07-08 18:01:26,069 INFO       log_decorator Exiting start_server
+Entering form_response
+2021-07-08 18:01:33,274 INFO       log_decorator Entering form_response
+Function form_response called from function: write_responses
+2021-07-08 18:01:33,274 INFO       log_decorator Function form_response called from function: write_responses
+Entering start_server
+2021-07-08 18:02:28,399 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 18:02:28,400 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 18:02:28,400 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 18:02:28,401 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 18:02:28,415 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 18:02:28,415 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 18:02:28,416 INFO       server Server started OK
+Exiting start_server
+2021-07-08 18:02:28,417 INFO       log_decorator Exiting start_server
+Entering form_response
+2021-07-08 18:02:32,700 INFO       log_decorator Entering form_response
+Function form_response called from function: write_responses
+2021-07-08 18:02:32,701 INFO       log_decorator Function form_response called from function: write_responses
+Entering start_server
+2021-07-08 18:10:54,175 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-08 18:10:54,176 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-08 18:10:54,178 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-08 18:10:54,178 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-08 18:10:54,191 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-08 18:10:54,191 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-08 18:10:54,192 INFO       server Server started OK
+Exiting start_server
+2021-07-08 18:10:54,192 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 15:40:08,682 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 15:40:08,683 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 15:40:08,684 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 15:40:08,684 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 15:40:08,697 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 15:40:08,697 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 15:40:08,697 INFO       server Server started OK
+Exiting start_server
+2021-07-09 15:40:08,697 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 15:46:56,396 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 15:46:56,396 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 15:46:56,397 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 15:46:56,397 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 15:46:56,419 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 15:46:56,419 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 15:46:56,421 INFO       server Server started OK
+Exiting start_server
+2021-07-09 15:46:56,422 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 15:49:53,444 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 15:49:53,444 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 15:49:53,445 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 15:49:53,446 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 15:49:53,461 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 15:49:53,462 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 15:49:53,462 INFO       server Server started OK
+Exiting start_server
+2021-07-09 15:49:53,462 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 16:13:33,552 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 16:13:33,552 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 16:13:33,553 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 16:13:33,553 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 16:13:33,567 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 16:13:33,568 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 16:13:33,568 INFO       server Server started OK
+Exiting start_server
+2021-07-09 16:13:33,568 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 16:15:14,288 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 16:15:14,288 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 16:15:14,289 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 16:15:14,290 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 16:15:14,308 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 16:15:14,308 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 16:15:14,309 INFO       server Server started OK
+Exiting start_server
+2021-07-09 16:15:14,309 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 16:34:11,278 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 16:34:11,278 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 16:34:11,279 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 16:34:11,279 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 16:34:11,292 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 16:34:11,293 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 16:34:11,293 INFO       server Server started OK
+Exiting start_server
+2021-07-09 16:34:11,293 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 16:36:23,633 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 16:36:23,634 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 16:36:23,634 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 16:36:23,635 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 16:36:23,647 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 16:36:23,647 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 16:36:23,648 INFO       server Server started OK
+Exiting start_server
+2021-07-09 16:36:23,648 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 16:36:53,771 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 16:36:53,772 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 16:36:53,773 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 16:36:53,773 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 16:36:53,786 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 16:36:53,786 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 16:36:53,786 INFO       server Server started OK
+Exiting start_server
+2021-07-09 16:36:53,787 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 17:02:52,089 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 17:02:52,090 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 17:02:52,091 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 17:02:52,091 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 17:02:52,104 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 17:02:52,104 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 17:02:52,105 INFO       server Server started OK
+Exiting start_server
+2021-07-09 17:02:52,105 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 17:50:35,108 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 17:50:35,108 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 17:50:35,109 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 17:50:35,109 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 17:50:35,123 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 17:50:35,123 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 17:50:35,123 INFO       server Server started OK
+Exiting start_server
+2021-07-09 17:50:35,123 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 18:02:07,903 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 18:02:07,903 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 18:02:07,904 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 18:02:07,905 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 18:02:07,924 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 18:02:07,924 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 18:02:07,924 INFO       server Server started OK
+Exiting start_server
+2021-07-09 18:02:07,924 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 18:03:01,631 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 18:03:01,631 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 18:03:01,633 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 18:03:01,633 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 18:03:01,645 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 18:03:01,645 INFO       log_decorator Exiting parse_params
+Server started OK
+2021-07-09 18:03:01,646 INFO       server Server started OK
+Exiting start_server
+2021-07-09 18:03:01,646 INFO       log_decorator Exiting start_server
+Entering start_server
+2021-07-09 18:03:07,891 INFO       log_decorator Entering start_server
+Function start_server called from function: <module>
+2021-07-09 18:03:07,892 INFO       log_decorator Function start_server called from function: <module>
+Entering parse_params
+2021-07-09 18:03:07,893 INFO       log_decorator Entering parse_params
+Function parse_params called from function: start_server
+2021-07-09 18:03:07,893 INFO       log_decorator Function parse_params called from function: start_server
+Parameters parsed OK
+2021-07-09 18:03:07,910 INFO       server Parameters parsed OK
+Exiting parse_params
+2021-07-09 18:03:07,911 INFO       log_decorator Exiting parse_params
+Server failed to start
+2021-07-09 18:03:07,911 CRITICAL   server Server failed to start
+Exiting start_server
+2021-07-09 18:03:07,911 INFO       log_decorator Exiting start_server
